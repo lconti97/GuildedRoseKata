@@ -1,0 +1,14 @@
+D:\dev\GuildedRose\GuildedRoseTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\dev\GuildedRose\GuildedRoseTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\dev\GuildedRose\GuildedRoseTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\dev\GuildedRose\GuildedRoseTests\bin\Debug\netcoreapp1.1\GuildedRoseTests.deps.json
+D:\dev\GuildedRose\GuildedRoseTests\bin\Debug\netcoreapp1.1\GuildedRoseTests.runtimeconfig.json
+D:\dev\GuildedRose\GuildedRoseTests\bin\Debug\netcoreapp1.1\GuildedRoseTests.runtimeconfig.dev.json
+D:\dev\GuildedRose\GuildedRoseTests\bin\Debug\netcoreapp1.1\GuildedRoseTests.dll
+D:\dev\GuildedRose\GuildedRoseTests\bin\Debug\netcoreapp1.1\GuildedRoseTests.pdb
+D:\dev\GuildedRose\GuildedRoseTests\bin\Debug\netcoreapp1.1\GuildedRose.dll
+D:\dev\GuildedRose\GuildedRoseTests\bin\Debug\netcoreapp1.1\GuildedRose.pdb
+D:\dev\GuildedRose\GuildedRoseTests\obj\Debug\netcoreapp1.1\GuildedRoseTests.csprojResolveAssemblyReference.cache
+D:\dev\GuildedRose\GuildedRoseTests\obj\Debug\netcoreapp1.1\GuildedRoseTests.AssemblyInfo.cs
+D:\dev\GuildedRose\GuildedRoseTests\obj\Debug\netcoreapp1.1\GuildedRoseTests.dll
+D:\dev\GuildedRose\GuildedRoseTests\obj\Debug\netcoreapp1.1\GuildedRoseTests.pdb
